@@ -1,8 +1,9 @@
-git  clone https://github.com/Tuhinshubhra/RED_HAWK
-git  clone https://github.com/sqlmapproject/sqlmap
-git  clone https://github.com/bibortone/D-Tech
-git  clone https://github.com/m4ll0k/Infoga
-git  clone https://github.com/s0md3v/ReconDog
+git clone git@github.com:company/*.git 
+git clone https://github.com/Tuhinshubhra/RED_HAWK
+git clone https://github.com/sqlmapproject/sqlmap
+git clone https://github.com/bibortone/D-Tech
+git clone https://github.com/m4ll0k/Infoga
+git clone https://github.com/s0md3v/ReconDog
 curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/androzenmap.sh
 git  clone https://github.com/s0md3v/sqlmate
 git  clone https://github.com/Gameye98/AstraNmap
