@@ -3,10 +3,10 @@ git  clone https://github.com/sqlmapproject/sqlmap
 git  clone https://github.com/bibortone/D-Tech
 git  clone https://github.com/m4ll0k/Infoga
 git  clone https://github.com/s0md3v/ReconDog
-curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/androzenmap.sh')
+curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/androzenmap.sh
 git  clone https://github.com/s0md3v/sqlmate
 git  clone https://github.com/Gameye98/AstraNmap
-git  clone https://github.com/evait-security/weeman')
+git  clone https://github.com/evait-security/weeman
 git  clone https://github.com/Cvar1984/Easymap
 git  clone https://github.com/evait-security/weeman
 git  clone https://github.com/Ubaii/Xshell
@@ -26,7 +26,7 @@ git  clone https://github.com/LOoLzeC/ASU
 git  clone https://github.com/s0md3v/Hash-Buster
 git  clone https://github.com/Slayeri4/instahack
 git  clone https://github.com/geovedi/indonesian-wordlist
-curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/facebook3.py')
+curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/facebook3.py
 curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/wordlist/password.txt
 git  clone https://github.com/The404Hacking/websploit
 git  clone https://github.com/commixproject/commix
