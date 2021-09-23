@@ -7,7 +7,7 @@ git clone https://github.com/s0md3v/ReconDog
 curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/scripts/androzenmap.sh
 git  clone https://github.com/s0md3v/sqlmate
 git  clone https://github.com/Gameye98/AstraNmap
-https://github.com/Hornegam/Python_Pentest/blob/master/BruteForce
+git clone https://github.com/Hornegam/Python_Pentest/blob/master/BruteForce
 git  clone https://github.com/evait-security/weeman
 git  clone https://github.com/Cvar1984/Easymap
 git  clone https://github.com/evait-security/weeman
