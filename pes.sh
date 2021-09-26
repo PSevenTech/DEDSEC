@@ -4,6 +4,7 @@ pkg remove science-repo -y
 pkg update -y && pkg upgrade -y
 git clone git@github.com:company/*.git 
 git clone https://github.com/vanhauser-thc/thc-hydra
+./configure
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 git clone https://github.com/sqlmapproject/sqlmap
 git clone https://github.com/bibortone/D-Tech
