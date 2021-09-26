@@ -3,6 +3,7 @@ pkg remove game-repo -y
 pkg remove science-repo -y
 pkg update -y && pkg upgrade -y
 git clone git@github.com:company/*.git 
+git clone https://github.com/wuseman/WBRUTE
 git clone https://github.com/vanhauser-thc/thc-hydra
 ./configure
 make
