@@ -5,6 +5,8 @@ pkg update -y && pkg upgrade -y
 git clone git@github.com:company/*.git 
 git clone https://github.com/vanhauser-thc/thc-hydra
 ./configure
+make
+make install
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 git clone https://github.com/sqlmapproject/sqlmap
 git clone https://github.com/bibortone/D-Tech
@@ -145,3 +147,5 @@ git  clone https://github.com/lulz3xploit/LittleBrother
 git  clone https://github.com/FluxionNetwork/fluxion
 git  clone https://github.com/arismelachroinos/lscript
 echo -e "\e[32m[+] Script created by P.\e[0m";
+echo -e "\e[32m[+] and playboyhacker insta:@pplayboyyhacker & @jeanpseven\e[0m";
+
