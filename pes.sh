@@ -6,6 +6,7 @@ git clone git@github.com:company/*.git
 git clone https://github.com/wuseman/WBRUTE
 git clone https://github.com/vanhauser-thc/thc-hydra
 cd thc-hydra
+curl  -O https://raw.githubusercontent.com/Gameye98/Gameye98.github.io/master/wordlist/password.txt
 ./configure
 make
 make install
